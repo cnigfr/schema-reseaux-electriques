@@ -30,14 +30,14 @@ cas d’échanges de données afin d’illustrer les spécifications.
 
 
 ## Versions
-- 1.02 24 novembre 2022 : 1.0.2
-- 1.01 19 octobre 2022 : 1.0.1
-- 1.0 27 juillet 2022 : 1.0.0
-- 0.9 17 juin 2022 : 0.9.0
-- 0.8 6 mai 2022 : 0.8.0
-- 0.7 8 mars 2022 : 0.7.0
-- 0.6 14 février 2022 : 0.6.0
-- 0.5 29 décembre 2021 : 0.5.0
-- 0.4 12 octobre 2021 : 0.4.0
-- 0.2 24 septembre 2021 : 0.2.0
-- 0.1 22 septembre 2021 : 0.1.0
+- 1.02 du 24 novembre 2022 : 1.0.2
+- 1.01 du 19 octobre 2022 : 1.0.1
+- 1.0 du 27 juillet 2022 : 1.0.0
+- 0.9 du 17 juin 2022 : 0.9.0
+- 0.8 du 6 mai 2022 : 0.8.0
+- 0.7 du 8 mars 2022 : 0.7.0
+- 0.6 du 14 février 2022 : 0.6.0
+- 0.5 du 29 décembre 2021 : 0.5.0
+- 0.4 du 12 octobre 2021 : 0.4.0
+- 0.2 du 24 septembre 2021 : 0.2.0
+- 0.1 du 22 septembre 2021 : 0.1.0
